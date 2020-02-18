@@ -1,0 +1,8 @@
+D:\digital\HookHttpOpenRequest\HookApi\bin\Debug\HookApi.dll
+D:\digital\HookHttpOpenRequest\HookApi\bin\Debug\HookApi.pdb
+D:\digital\HookHttpOpenRequest\HookApi\bin\Debug\HookApi.xml
+D:\digital\HookHttpOpenRequest\HookApi\obj\Debug\HookApi.Resources.resources
+D:\digital\HookHttpOpenRequest\HookApi\obj\Debug\HookApi.vbproj.GenerateResource.cache
+D:\digital\HookHttpOpenRequest\HookApi\obj\Debug\HookApi.dll
+D:\digital\HookHttpOpenRequest\HookApi\obj\Debug\HookApi.xml
+D:\digital\HookHttpOpenRequest\HookApi\obj\Debug\HookApi.pdb
